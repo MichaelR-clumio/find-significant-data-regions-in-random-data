@@ -12,10 +12,10 @@
 > See the License for the specific language governing permissions and
 > limitations under the License.
 
-## What is Find Data
+## What is Finding Data
 This script will find the "signal" in the noise.  It uses an algorithim to identify significant data amoung the clutter and will return just the significant data
 
-## How to use a Bulk Restore
+## How to use a Finding Data
 An input file allows you to create a signal inside of a random data set for the process then to find.  You could also just point the algorithim at your own data.
 The intent is that the solution is looking at time ordered data where you are counting events that have happened in a time set.  I.E. You cant have a negative events
 If your data has negative values.  You would have to normalize the data.
