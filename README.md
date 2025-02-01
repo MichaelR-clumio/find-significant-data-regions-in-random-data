@@ -23,3 +23,8 @@ If your data has negative values.  You would have to normalize the data.
 ## Example Use Case
 Counting the number of time the refrigurator was opened in any given minute to determine when major meals happened.  This would help determine how many major meals occurred
 durring the time span data was captured and the start and stop time for those meals.
+
+## Output
+The script will generate a plot that shows the original data, the significant data, and the smooted average of average data.  Note:  The last plotted data point is just interesting.
+
+![Alt text](data_plot.png)
