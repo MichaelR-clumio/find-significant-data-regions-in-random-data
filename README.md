@@ -1,7 +1,7 @@
 # Find data regions in random data
 
 > [!IMPORTANT]
-> Copyright 2024,Mike Inc
+> Copyright 2025, Mike Inc
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
 > You may obtain a copy of the License at
